@@ -4,7 +4,7 @@
 #If you don't have the following R packages, you can install with install.packages
 #However, INLA is not on CRAN but can be downloaded with 
 #install.packages("INLA",repos=c(getOption("repos"),INLA="https://inla.r-inla-download.org/R/stable"), dep=TRUE)
-#Check https://www.r-inla.org/ for most recent download and installtion instructions.
+#Check https://www.r-inla.org/ for most recent download and installation instructions.
 
 library(INLA)
 library(splancs)
